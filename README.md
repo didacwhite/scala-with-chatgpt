@@ -303,12 +303,3 @@ Le he pedido a ChatGPT que me ayudara a aprender Scala para usar con Spark. Me h
 - 🔄 **Itera y profundiza:** Revisa los módulos anteriores si sientes que algún concepto necesita refuerzo o mayor exploración.
 
 ¡Con este roadmap completo, estarás en el camino para dominar Scala a nivel experto! 🎯🔥
-
-
-## 🚀 Cómo utilizar este roadmap
-- 📅 **Planifica tu tiempo** y avanza a tu propio ritmo.
-- 🔍 **Practica con proyectos reales** para consolidar los conceptos.
-- 🔄 **Itera y profundiza** si sientes que algún tema requiere más práctica o estudio.
-
-¡Espero que este roadmap te ayude a dominar Scala! 🎯🔥
-
