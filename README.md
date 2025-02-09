@@ -1,6 +1,3 @@
-# scala-with-chatgpt
-Repo en el que subiré el avance en el curso de scala en el que ChatGPT me guía para ser experto en scala
-
 ## Descripción
 Le he pedido a ChatGPT que me ayudara a aprender Scala para usar con Spark. Me ha dado un roadmap que voy a utilizar para ir aprendiendo el lenguaje con su apoyo y haciendo los ejercicios que me pida
 
